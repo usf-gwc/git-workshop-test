@@ -20,5 +20,5 @@ int findSum(int x, int y){
 }
 
 void printSum(int sum){
-
+    printf("the sum is %d", sum);
 }
